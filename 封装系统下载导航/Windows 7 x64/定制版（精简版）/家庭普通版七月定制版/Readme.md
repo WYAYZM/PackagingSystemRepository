@@ -139,3 +139,16 @@ Microsoft-Windows-VirtualPC-Package
 ## Windows功能查看
 
   ![Snipaste_2023-08-07_18-59-22](https://github.com/WYAYZM/SystemDIY/assets/112265240/28805526-b529-42b6-b6f1-9c0845986c9d)
+
+## 系统母盘使用说明
+
+    使用母盘：Windows 7 SP1 6.1.7601.26623 July RTM x64 （非KB3125574方案，含IE11及其功能更新）
+
+## 开启组件：
+
+    组策略组件包
+
+## 更新包统计：
+
+![Snipaste_2023-08-07_21-03-24](https://github.com/WYAYZM/SystemDIY/assets/112265240/e32b2fa5-5c6e-4300-b197-8d5aee3a8735)
+    

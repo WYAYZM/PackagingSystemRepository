@@ -113,3 +113,9 @@ Microsoft-Windows-WinOcr-Package
 Microsoft-Windows-WMI-SNMP-Provider
 
 Microsoft-Windows-Xps-Foundation-Client
+
+Microsoft-Windows-Anytime-Upgrade-Package
+
+Microsoft-Hyper-V-Integration-Services-Package
+
+Microsoft-Windows-VirtualPC-Package
